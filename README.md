@@ -1,4 +1,5 @@
 # Neural real estate appraisal calculator v1.0.0
+:robot: Neural real estate appraisal calculator is implemented in C programming language. The application is designed to calculate the assessment of real estate using a single neuron :robot:
 
 ## ⚠️ LICENSE ⚠️
 MIT License
