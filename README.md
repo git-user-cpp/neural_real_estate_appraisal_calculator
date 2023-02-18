@@ -18,8 +18,11 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/git-user-cpp/neural_real_estate_appraisal_calculator?color=98FB98&logo=github&logoColor=98FB98)
 ![GitHub last commit](https://img.shields.io/github/last-commit/git-user-cpp/neural_real_estate_appraisal_calculator?color=98FB98&logo=github&logoColor=98FB98&style=plastic)
 
-#
+---
+
 :robot: Neural real estate appraisal calculator is implemented in C programming language. The application is designed to calculate the assessment of real estate using a single neuron :robot:
+
+---
 
 ## ⚠️ LICENSE ⚠️
 MIT License
@@ -44,6 +47,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+---
+
 ## 💻 How to use this app 💻
 
 1) ⚠️ **The application is designed for Linux, so avoid using other systems or remake the program to avoid bugs.** ⚠️
@@ -67,3 +72,5 @@ SOFTWARE.
     ./main
     ```
 6) 👷 Select the desired function by pressing **1** or **2** + **Enter**. If you want to close the app, press **0** + **Enter** in main menu.
+
+---
